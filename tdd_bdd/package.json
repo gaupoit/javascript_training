@@ -1,0 +1,18 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "expect.js": "^0.3.1",
+    "superagent": "^1.7.1",
+    "webdriverio": "^3.4.0",
+    "webdriverjs": "^1.7.5"
+  }
+}
